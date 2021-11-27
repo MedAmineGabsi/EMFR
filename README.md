@@ -17,7 +17,7 @@ A higher order function is a function that either:
 
 #### `each.js`
 
-#### Basic each:
+#### 1.Basic each:
 
 ##### A function that loop over an array and return each element alone.
 
