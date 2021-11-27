@@ -2,19 +2,16 @@
 
 #### Callback function:
 
-##### A callback is a function passed as an argument to another function
-
-##### This technique allows a function to call another function
-
-##### A callback function can run after another function has finished
+A callback is a function passed as an argument to another function
+This technique allows a function to call another function
+A callback function can run after another function has finished
 
 #### High-order function:
 
-#### A higher order function is a function that either:
+A higher order function is a function that either:
 
-#### 1.Takes one or more functions as arguments
-
-#### 2.Returns a function as its result
+1.Takes one or more functions as arguments
+2.Returns a function as its result
 
 ### Functions definition:
 
@@ -31,3 +28,9 @@
 ##### 3. Object, Array each:
 
 ###### We create an each function with data structure, we are taking each to the next level by taking arrays and object with for loop
+
+#### `map.js`
+
+#### 1. Basic map:
+
+#####
