@@ -73,4 +73,10 @@ function ReduceWithObjectKeys(coll, f, acc) {
   }
 }
 
-//No example purposed for the Array Object Reduce
+//Example
+
+function ProductCount(obj) {
+  return ReduceWithObjectKeys(obj, function (acc, element) {
+    return (acc += element);
+  });
+}
